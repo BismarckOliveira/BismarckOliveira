@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bismarck-oliveira-546308ba" target="blank"><img align="center" src=https://github.com/account alt="bismarck-oliveira-546308ba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bismarck-oliveira-546308ba" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/68343542?s=400&u=83673968d8696382ff401dcdb68a213a8ba03d9b&v=4" alt="bismarck-oliveira-546308ba" height="30" width="40" /></a>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bismarckoliveira&show_icons=true&locale=en&layout=compact" alt="bismarckoliveira" />
 </p>
 
